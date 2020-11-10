@@ -21,7 +21,7 @@ class BoidFlockers(Model):
 
     def __init__(
         self,
-        population=100,
+        population=5,
         width=100,
         height=100,
         speed=1,
